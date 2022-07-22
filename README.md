@@ -12,7 +12,7 @@ that was done by choosing [This Template](https://www.figma.com/file/l7SqJ3ZfkAK
 
 ## Live Demo 
 
-[Live Demo Link](https://mohamed20163858.github.io/my-portfolio/)
+[Live Demo Link](https://mohamed20163858.github.io/hide-and-seek-game/)
 
 
 ## Getting Started
